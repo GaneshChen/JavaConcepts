@@ -14,6 +14,11 @@ public class LC_Concatenation_Array {
         return ans;
     }
 
+    /**
+     * This is a Updated Commit Info
+     * @param args
+     */
+
     public static void main(String[] args) {
         LC_Concatenation_Array lc = new LC_Concatenation_Array();
         int[] arr = {10,20,-10,5,6};
